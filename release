@@ -1,0 +1,9 @@
+{
+  latest: "1.0.3",
+  version:[
+    {
+      number: "1.0.3",
+      notes: "support upgrade"
+    }
+  ]
+}
