@@ -1,9 +1,16 @@
 {
   "latest": "1.0.3",
+  "note":{
+     "en":"Support new version of MyCryptos check",
+     "zh":"支持新版本通知"
+  }
   "version":[
     {
       "number": "1.0.3",
-      "notes": "support upgrade"
+      "note":{
+         "en":"Support new version of MyCryptos check",
+         "zh":"支持新版本通知"
+      }
     }
   ]
 }
