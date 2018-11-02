@@ -1,8 +1,8 @@
 {
   "latest": "1.0.3",
   "note":{
-     "en":"Support new version of MyCryptos check",
-     "zh":"支持新版本通知"
+     "en":"MyCryptos1.0.3 relesed, which include: 1. Support new version push. 2. Fix some issues",
+     "zh":"MyCryptos1.0.3版本发布了，这次的更新主要包括：1. 加入了新版本推送功能。2. 修正了一些显示问题"
   },
   "version":[
     {
